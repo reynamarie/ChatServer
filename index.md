@@ -42,8 +42,10 @@ After   /add-message?s=How%20are%20you&user=yash, the chat field in the Handler 
 1. Run ls with the absolute path to the private key for your SSH key for logging into ieng6
 ![Image](private.png)
 
+
 2. run ls with the absolute path to the public key for your SSH key for logging into ieng6
  ![Image](public.png)
+
 
 3. log into your ieng6 account without being asked for a password
 ![Image](loggingin.png)   
