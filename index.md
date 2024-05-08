@@ -1,4 +1,3 @@
-# f
 ## Part1
 
 ![Image](code.jpg)
@@ -38,17 +37,15 @@ After   /add-message?s=How%20are%20you&user=yash, the chat field in the Handler 
 
 
 
-#Part 2 
+## Part 2 
 
 
-
-![Image](code3.jpg)
-
-
+![Image](private.png)
 
 
 
 
 
-#Part 3
-In week 2 and week 3 I learned about URLS and servers. I learned how to make and edit a URL by addig things to the end of the URL with paths and queries. 
+
+## Part 3
+In week 2 and week 3, I learned about URLs and servers. I learned how to make and edit a URL by adding things to the end of the URL with paths and queries. 
