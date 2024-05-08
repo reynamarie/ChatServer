@@ -4,7 +4,7 @@
 
 
 
-![Image](jpolitz.jpg)
+![Image](jpolitzz.jpg)
 
 
 
