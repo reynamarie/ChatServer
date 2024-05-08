@@ -4,11 +4,12 @@
 
 
 
+![Image](jpolitz.jpg)
 
 
 
 
-![Image](yash.jpg)
+
 
 
 
@@ -22,7 +23,7 @@ Chat in the handler class updates to the new chat message <username>: <message>\
 
 
 
-![Image](jpolitz.jpg)
+
 
 
 
